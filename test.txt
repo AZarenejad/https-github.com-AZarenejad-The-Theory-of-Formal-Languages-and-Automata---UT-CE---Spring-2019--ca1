@@ -1,0 +1,12 @@
+baaabab
+*****ba*****ab
+
+baaabab
+baaa?ab
+
+baaabab
+ba*a?
+
+
+baaabab
+a*ab
